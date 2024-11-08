@@ -1,5 +1,5 @@
 baseURL: 
-relativeURLs: True
+relativeURLs: true
 languageCode: en-us
 title: Law & Language | University of Western Ontario
 theme: PaperModX
