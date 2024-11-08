@@ -2,25 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/lawandlanguage/about/</loc>
+    <loc>https://law-and-language.github.io/lawandlanguage/about/</loc>
     <lastmod>2024-11-06T10:54:39-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/lawandlanguage/</loc>
+    <loc>https://law-and-language.github.io/lawandlanguage/</loc>
     <lastmod>2024-11-06T10:54:39-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/lawandlanguage/posts/</loc>
+    <loc>https://law-and-language.github.io/lawandlanguage/posts/</loc>
     <lastmod>2024-11-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/lawandlanguage/posts/meaning/</loc>
+    <loc>https://law-and-language.github.io/lawandlanguage/posts/meaning/</loc>
     <lastmod>2024-11-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/lawandlanguage/posts/testblog/</loc>
+    <loc>https://law-and-language.github.io/lawandlanguage/posts/testblog/</loc>
     <lastmod>1970-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/lawandlanguage/archives/</loc>
+    <loc>https://law-and-language.github.io/lawandlanguage/archives/</loc>
   </url><url>
-    <loc>http://localhost:1313/lawandlanguage/categories/</loc>
+    <loc>https://law-and-language.github.io/lawandlanguage/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/lawandlanguage/tags/</loc>
+    <loc>https://law-and-language.github.io/lawandlanguage/tags/</loc>
   </url>
 </urlset>
