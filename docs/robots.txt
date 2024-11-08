@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://law-and-language.github.io/lawandlanguage/sitemap.xml
+Sitemap: /sitemap.xml
