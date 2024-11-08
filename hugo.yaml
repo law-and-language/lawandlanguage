@@ -1,4 +1,4 @@
-baseURL: https://law-and-language.github.io/lawandlanguage/
+baseURL: "https://law-and-language.github.io/lawandlanguage/"
 languageCode: en-us
 title: Law & Language | University of Western Ontario
 theme: PaperModX
