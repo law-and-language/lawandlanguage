@@ -36,7 +36,8 @@ params:
   ShowCodeCopyButtons: false
   ShowPostNavLinks: true
   Email: lawandlanguageuwo@gmail.com
-
+  assets:
+    disableFingerprinting: true
 
 
 
